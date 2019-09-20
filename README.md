@@ -1,4 +1,4 @@
 # Circuit-Clearer
-Minecraft Resource Pack
+Minecraft Bedrock Edition Resource Pack
 
 For all circuit builders
