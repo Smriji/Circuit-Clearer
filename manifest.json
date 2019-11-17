@@ -5,9 +5,9 @@
       "name": "Circuit Clearer",
       "platform_locked": false,
       "uuid": "ad97de1d-a7fc-4a30-9b15-72e49b7b3acc",
-      "version": [ 0, 4, 6 ]
+      "version": [ 0, 4, 6 ],
+      "min_engine_version": [ 1, 12, 0 ]
    },
-   "min_engine_version": [ 1, 12, 0 ],
    "modules": [
       {
          "description": "Circuit no Ookami",
