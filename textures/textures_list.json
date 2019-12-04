@@ -7,6 +7,15 @@
     "textures/blocks/observer_front_lit",
     "textures/blocks/observer_side_lit",
     "textures/blocks/observer_top_lit",
-    "textures/blocks/repeater_floor"
+    "textures/blocks/repeater_floor",
+    "textures/blocks/hopper_top_n",
+    "textures/blocks/hopper_top_s",
+    "textures/blocks/hopper_top_w",
+    "textures/blocks/hopper_top_e",
+    "textures/blocks/hopper_top_lit",
+    "textures/blocks/hopper_top_n_lit",
+    "textures/blocks/hopper_top_s_lit",
+    "textures/blocks/hopper_top_w_lit",
+    "textures/blocks/hopper_top_e_lit",
 ]
 

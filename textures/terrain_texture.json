@@ -93,5 +93,25 @@
                 "textures/blocks/observer_top_lit"
             ]
         }
+        "hopper_top": {
+            "textures": [
+                "textures/blocks/hopper_top",
+                "textures/blocks/hopper_top",
+                "textures/blocks/hopper_top_n",
+                "textures/blocks/hopper_top_s",
+                "textures/blocks/hopper_top_w",
+                "textures/blocks/hopper_top_e",
+                "textures/blocks/hopper_top",
+                "textures/blocks/hopper_top",
+                "textures/blocks/hopper_top_lit",
+                "textures/blocks/hopper_top_lit",
+                "textures/blocks/hopper_top_n_lit",
+                "textures/blocks/hopper_top_s_lit",
+                "textures/blocks/hopper_top_w_lit",
+                "textures/blocks/hopper_top_e_lit",
+                "textures/blocks/hopper_top",
+                "textures/blocks/hopper_top"
+            ]
+        }
     }
 }
