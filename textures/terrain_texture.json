@@ -92,7 +92,7 @@
                 "textures/blocks/observer_top",
                 "textures/blocks/observer_top_lit"
             ]
-        }
+        },
         "hopper_top": {
             "textures": [
                 "textures/blocks/hopper_top",
